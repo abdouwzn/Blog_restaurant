@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bbb"
+		},
+		{
+			"path": "../../Downloads/Mamba/Mamba/assets/vendor/swiper"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "blogger"
+	}
+}
